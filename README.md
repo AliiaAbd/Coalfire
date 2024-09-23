@@ -89,6 +89,6 @@ This repository contains Terraform code to set up a proof-of-concept environment
 
 - [Coalfire AWS Terraform Modules](https://github.com/orgs/Coalfire-CF/repositories?type=public&q=terraform-aws)
 - [Terraform AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
-- [Terraform AWS Modules] (https://registry.terraform.io/browse/modules)
+- [Terraform AWS Modules](https://registry.terraform.io/browse/modules)
 
 
