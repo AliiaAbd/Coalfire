@@ -1,4 +1,4 @@
-# Coalfire techical chaallenge completed by Aliia Abdrakhmanova
+# Coalfire techical challenge completed by Aliia Abdrakhmanova
 # Proof-of-Concept Environment with Terraform in AWS
 
 This repository contains Terraform code to set up a proof-of-concept environment in AWS. The infrastructure consists of networking, compute resources, an application load balancer, auto-scaling group, and S3 buckets, with lifecycle policies for storage.
